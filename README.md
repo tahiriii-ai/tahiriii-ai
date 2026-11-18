@@ -4,6 +4,8 @@
 
 I turn board requirements, schematics, and prototypes into verified PCB layouts and fabrication packages. I work in KiCad and Altium Designer on ESP32 and STM32 hardware, multilayer routing, and 3D-printable enclosures. I study Electrical Engineering at Namal University.
 
+**[View my portfolio](https://tahiriii-ai.github.io/ta-embedded-solutions/)**
+
 **Hiring for PCB design or embedded hardware?** [View my résumé](https://tahiriii-ai.github.io/ta-embedded-solutions/Tahir_Ali_Resume.pdf) · [See selected work](#selected-engineering-work)  
 **Need help with a board or prototype?** [Send a project brief](https://tahiriii-ai.github.io/ta-embedded-solutions/#contact) · [View services](https://tahiriii-ai.github.io/ta-embedded-solutions/#services)
 
@@ -12,6 +14,10 @@ I turn board requirements, schematics, and prototypes into verified PCB layouts 
 ### [ESP32 parcel-tracking system](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/parcel-tracking-system.html)
 
 I reviewed both schematics and laid out two 4-layer boards for the ESP32-C3 Beacon and ESP32-S3 Gateway. I ran ERC and DRC, prepared the fabrication and assembly files, and designed the Beacon enclosure in Fusion 360.
+
+[![ESP32-C3 Beacon schematic showing charging, power, RGB LEDs, buzzer, and protection circuits](https://tahiriii-ai.github.io/ta-embedded-solutions/images/parcel/beacon-schematic.webp)](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/parcel-tracking-system.html)
+
+*Beacon PCB schematic from the ESP32 parcel-tracking system. Select the image to open the full case study.*
 
 ### [8-layer multi-radio IoT gateway](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/multi-radio-gateway-layout.html)
 
@@ -36,4 +42,3 @@ I reconstructed the schematic of an undocumented STM32 controller from the PCB a
 - **Fabrication and assembly** — CAD project, Gerbers, drill files, BOM, component placement files, and STEP models as required.
 - **Enclosures** — Fusion 360 designs, printable STL files, STEP models, and drawings.
 
-[Live portfolio](https://tahiriii-ai.github.io/ta-embedded-solutions/) · [GitHub portfolio repository](https://github.com/tahiriii-ai/tahir_portfolio)
