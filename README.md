@@ -1,27 +1,39 @@
 # Tahir Ali
 
-**PCB Design Engineer · Embedded Hardware · KiCad & Altium Designer**
+**PCB Design Engineer · Embedded Hardware**
 
-I design PCBs for ESP32 and STM32 products, from schematic review and multilayer layout through design verification and manufacturing handoff. I also design 3D-printable enclosures around finished boards. I study Electrical Engineering at Namal University and work with clients remotely.
+I turn board requirements, schematics, and prototypes into verified PCB layouts and fabrication packages. I work in KiCad and Altium Designer on ESP32 and STM32 hardware, multilayer routing, and 3D-printable enclosures. I study Electrical Engineering at Namal University.
 
-[Live portfolio](https://tahiriii-ai.github.io/ta-embedded-solutions/) · [All 12 case studies](https://tahiriii-ai.github.io/ta-embedded-solutions/#work) · [GitHub portfolio](https://github.com/tahiriii-ai/tahir_portfolio)
+**Hiring for PCB design or embedded hardware?** [View my résumé](https://tahiriii-ai.github.io/ta-embedded-solutions/Tahir_Ali_Resume.pdf) · [See selected work](#selected-engineering-work)  
+**Need help with a board or prototype?** [Send a project brief](https://tahiriii-ai.github.io/ta-embedded-solutions/#contact) · [View services](https://tahiriii-ai.github.io/ta-embedded-solutions/#services)
 
-## Featured engineering projects
+## Selected engineering work
 
-| Project | My contribution |
+### [ESP32 parcel-tracking system](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/parcel-tracking-system.html)
+
+I reviewed both schematics and laid out two 4-layer boards for the ESP32-C3 Beacon and ESP32-S3 Gateway. I ran ERC and DRC, prepared the fabrication and assembly files, and designed the Beacon enclosure in Fusion 360.
+
+### [8-layer multi-radio IoT gateway](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/multi-radio-gateway-layout.html)
+
+I took a client-supplied schematic and routed a board with more than 400 components, five RF sections, and ten SMA feeds. The case study shows the layout and KiCad DRC results.
+
+### [ARC62 load-cell controller](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/arc62-loadcell-repair.html)
+
+I reconstructed the schematic of an undocumented STM32 controller from the PCB and BOM, then used it to diagnose four field issues.
+
+## Project index
+
+| Area | Case studies |
 | --- | --- |
-| [ESP32 parcel-tracking system](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/parcel-tracking-system.html) | Reviewed schematics, laid out two 4-layer PCBs for an ESP32-C3 Beacon and ESP32-S3 Gateway, prepared manufacturing files, and designed the printable Beacon enclosure. |
-| [8-layer multi-radio IoT gateway](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/multi-radio-gateway-layout.html) | Routed a 400+ component STM32H7 board with five RF sections and ten SMA feeds from a client-supplied schematic. |
-| [ARC62 load-cell controller](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/arc62-loadcell-repair.html) | Reconstructed the schematic from the PCB and BOM, then diagnosed four field issues. |
-| [RejsaCAN v3.4 redesign](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/rejsacan-v3-redesign.html) | Fit an ESP32-S3, CAN transceiver, USB-C, and microSD into a 30 × 50 mm PCB. |
+| Wireless and IoT | [Parcel-tracking system](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/parcel-tracking-system.html) · [Beacon PCB](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/beacon-pcb-design.html) · [Gateway PCB](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/gateway-pcb-design.html) · [Multi-radio IoT gateway](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/multi-radio-gateway-layout.html) |
+| Embedded boards and interfaces | [RejsaCAN v3.4 redesign](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/rejsacan-v3-redesign.html) · [ESP32 development board](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/esp32-dev-board.html) · [STM32 GPS tracker](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/stm32-gps-tracker.html) · [USB-to-UART converter](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/usb-uart-converter.html) |
+| Power and sensing | [DC–DC buck converter](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/dc-dc-buck-converter.html) · [Water-level indicator](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/water-level-indicator.html) |
+| Diagnostics and mechanical design | [ARC62 controller](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/arc62-loadcell-repair.html) · [Beacon enclosure](https://tahiriii-ai.github.io/ta-embedded-solutions/projects/beacon-enclosure-design.html) |
 
-## Tools and deliverables
+## What I deliver
 
-- **PCB design** · KiCad, Altium Designer, and EasyEDA Pro
-- **Embedded hardware** · ESP32, STM32, BLE, ESP-NOW, CAN, USB-C, and battery-powered designs
-- **Manufacturing handoff** · ERC and DRC, Gerbers, drill files, BOM, component placement files, and STEP models
-- **Enclosure design** · Fusion 360, printable STL files, STEP models, and drawings
+- **Design and review** — Schematic review, component placement, multilayer routing, and ERC/DRC results.
+- **Fabrication and assembly** — CAD project, Gerbers, drill files, BOM, component placement files, and STEP models as required.
+- **Enclosures** — Fusion 360 designs, printable STL files, STEP models, and drawings.
 
-## Work with me
-
-Have a schematic, an existing board, or an early hardware concept? [Send me a project brief](https://tahiriii-ai.github.io/ta-embedded-solutions/#contact).
+[Live portfolio](https://tahiriii-ai.github.io/ta-embedded-solutions/) · [GitHub portfolio repository](https://github.com/tahiriii-ai/tahir_portfolio)
